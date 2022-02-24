@@ -1,0 +1,69 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+ 
+}
+a{
+    color: black;
+}
+body{
+    background-color: violet;
+}
+.a1{
+    width: 100%;
+    height: 73px;
+    background-color: white;
+}
+.a11{
+    margin: 0 auto;
+    width: 1000px;
+    height: 73px;
+    background: url(../../img/logonew.png) 0px 10px no-repeat;
+    background-size: 130px;  
+}
+.a111{
+    margin-left: 200px; ;
+    width: 500px;
+    height: 63px;
+    padding-top: 10px;
+    line-height: 63px;
+    font-size: 20px;
+   float: left;
+    word-spacing:30px;
+}
+.a112{
+    width: 300px;
+    height: 73px;
+    float: right;
+    position: relative;
+}
+.a1121{
+    color: red;
+    width: 45px;
+    height: 30px;
+    border: 1px solid red;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 3px;
+    position: absolute;
+    top: 20px;
+    left: 253px;
+}
+.a1121 a{
+    color: red;
+}
+.a1122{
+    position: absolute;
+    top: 23px;
+    left: 190px;
+    height: 30px;
+    width: 30px;
+    background: url(../img/search.png) 0px 0px no-repeat;
+}
+.a2{
+    margin:0px auto;
+    width: 100%;
+    background: url(../img/original.jpg) -285px 0px no-repeat;
+    height: 300px;
+}
